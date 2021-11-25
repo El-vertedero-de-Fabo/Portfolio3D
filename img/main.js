@@ -1,6 +1,8 @@
+import './style.css';
+
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
-import './style.css'
+
 // Setup
 
 const scene = new THREE.Scene();
